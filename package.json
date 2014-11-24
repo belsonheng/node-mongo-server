@@ -1,0 +1,14 @@
+{
+  "name": "mongo-server",
+  "version": "0.0.1",
+  "private": true,
+  "dependencies": {
+    "express": "4.10.1",
+    "body-parser": "1.9.2",
+    "jade": "1.7.0",
+    "mongodb": "1.4.19",
+    "primus": "2.4.10",
+    "primus-emitter": "3.0.3",
+    "sockjs": "0.3.10"
+  }
+}
