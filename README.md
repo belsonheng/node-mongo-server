@@ -9,19 +9,19 @@ To start _node-mongo-server_, navigate to the root of this folder and run the fo
 
         node index.js
 
-To insert new document, do a HTTP **POST** to the following URL (e.g. http://localhost:9002/html):
+To insert new document, do a HTTP **POST** to the following URL:
 
         http://<serverhost>:<serverport>/<collection name>
 
-To find an existing document by ID, do a HTTP **GET** to the following URL (e.g. http://localhost:9002/html/01):
+To find an existing document by ID, do a HTTP **GET** to the following URL:
 
         http://<serverhost>:<serverport>/<collection name>/<_id>
     
-To view all documents in a collection, visit the following URL (e.g. http://localhost:9002/html)
+To view all documents in a collection, visit the following URL:
 
         http://<serverhost>:<serverport>/<collection name>
 
-To update an existing document by ID, do a HTTP **PUT** to the following URL (e.g. http://localhost:9002/html/01):
+To update an existing document by ID, do a HTTP **PUT** to the following URL:
 
         http://<serverhost>:<serverport>/<collection name>/<_id>
     
