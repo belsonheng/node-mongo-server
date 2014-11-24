@@ -6,7 +6,8 @@ A basic mongoDB web service that allows CRUD operations by using REST API.
 ## Getting Started
 
 Start node-mongo-server,
-    node index.js
+
+        node index.js
 
 To insert new document, do a HTTP *POST* to the following URL (e.g. http://localhost:9002/html):
 
