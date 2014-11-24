@@ -5,7 +5,7 @@ A basic mongoDB web service that allows CRUD operations by using REST API.
 
 ## Getting Started
 
-Start node-mongo-server,
+To start _node-mongo-server_, navigate to the root of this folder and run the following command:
 
         node index.js
 
