@@ -25,6 +25,6 @@ To update an existing document by ID, do a HTTP **PUT** to the following URL:
 
         http://<serverhost>:<serverport>/<collection name>/<_id>
     
-To update an existing document by ID, do a HTTP **DELETE** to the following URL (e.g. http://localhost:9002/html/01):
+To update an existing document by ID, do a HTTP **DELETE** to the following URL:
 
         http://<serverhost>:<serverport>/<collection name>/<_id>
